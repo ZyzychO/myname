@@ -11,7 +11,7 @@ paths:
           in: query
           schema: 
             type: string
-      operationId: kuku
+      operationId: testing
       summary: get user by ID
       description: get user
       responses:
