@@ -8,6 +8,7 @@ paths:
     get:
       parameters:
         - name: id
+          required: true
           in: query
           schema: 
             type: string
